@@ -42,7 +42,7 @@ Program untuk menemukan semua solusi dalam permainan kartu 24 menggunakan algori
 2. buka folder bin
 3. jalankan main.exe
 
-## Penulis
+## Author
 * Nama: Muhammad Haidar Akita Tresnadi
 * NIM: 13521025
 * Prodi/Jurusan: STEI/Teknik Informatika
